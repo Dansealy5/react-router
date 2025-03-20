@@ -19,7 +19,7 @@ function App() {
         <Link to="/green">Green</Link>
         <Link to="/purple">Purple</Link>
       </div>
-      <div id="main-section">
+      <div className="main-section" id="main-section">
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path="/blue" element={<Blue />} />
