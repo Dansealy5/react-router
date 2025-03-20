@@ -27,6 +27,10 @@ body > div {
   align-items: center;
   justify-content: center;
 }
+.home {
+  background-color: burlywood;
+  color: white;
+}
 .red {
   background-color: #b05f6d;
   color: white;
@@ -35,7 +39,11 @@ body > div {
   background-color: #275db3;
   color: white;
 }
-.home {
-  background-color: burlywood;
+.green {
+  background-color: green;
+  color: white;
+}
+.purple {
+  background-color: purple;
   color: white;
 }
